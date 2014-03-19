@@ -64,7 +64,6 @@ cask install sublime-text || true
 cask install totalspaces || true
 cask install totalfinder || true
 cask install iterm2 || true
-cask install light-table || true
 cask install nethackcocoa || true
 cask install soundflower || true
 cask install appcleaner || true
