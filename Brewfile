@@ -61,6 +61,7 @@ cask install vagrant || true
 cask install vlc || true
 cask install intellij-idea || true
 cask install sublime-text || true
+cask install coteditor || true
 cask install totalspaces || true
 cask install totalfinder || true
 cask install iterm2 || true
