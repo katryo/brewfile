@@ -39,10 +39,12 @@ install cpanminus || true
 
 install nginx ||  true
 install mysql || true
+install postgresql || true
 install sqlite || true
 install memcached || true
 install elasticsearch || true
 install cmake || true
+install imagemagick || true
 
 cask install keyremap4macbook || true
 cask install dropbox || true
@@ -69,3 +71,4 @@ cask install nethackcocoa || true
 cask install soundflower || true
 cask install appcleaner || true
 cask install shiftit || true
+cask install mou || true
